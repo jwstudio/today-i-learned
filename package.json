@@ -19,7 +19,6 @@
     "postbuild": "react-snap",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "postinstall": "./scripts/setup.sh"
   },
   "devDependencies": {
     "contentful-cli": "^0.16.1",
